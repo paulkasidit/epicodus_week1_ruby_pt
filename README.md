@@ -1,4 +1,4 @@
-#### Portfolio Landing Page
+#### Epciodus Part Time Ruby-React Track Week One Projects
 
 ## By
 
